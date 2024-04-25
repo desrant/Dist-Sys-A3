@@ -37,17 +37,7 @@
 ![read(a2)](https://github.com/Rohan-18102001/Dist-Sys-A2/assets/61150756/2c05422e-9445-42e6-a051-aa9d8491a6b2)
 
 
-### A-3: 10 Servers, 6 Shards, 8 Replicas
-
-![write(a3)](https://github.com/Rohan-18102001/Dist-Sys-A2/assets/61150756/3907667d-fdfd-440b-8a3a-b463e69c7361)
-
-
-![read(a3)](https://github.com/Rohan-18102001/Dist-Sys-A2/assets/61150756/af9a8228-9b69-41bc-a8f5-c4a8c0b579f1)
-
 Write speedup of a2 from a1 - 0.34094
-
-Write speedup of a3 from a1 - 0.247643
 
 Read speedup of a2 from a1 - 0.97184
 
-Read speedup of a3 from a1 - 0.87472
